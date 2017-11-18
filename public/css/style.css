@@ -1,0 +1,20 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background: url("http://www.volusia.com/wp-content/uploads/2013/07/news.jpg");
+  font-family: 'Pacifico', cursive;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
